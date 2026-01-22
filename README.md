@@ -4,6 +4,7 @@ A simple ComfyUI extension that adds a draggable **Exit Button** to the applicat
 
 ![Exit Button](exit.png)
 
+
 ## Features
 
 - Exits the ComfyUI application window.  
